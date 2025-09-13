@@ -1,0 +1,1 @@
+Advanced SQL Queries using INNER, LEFT, FULL OUTER JOINs and SubQueries
